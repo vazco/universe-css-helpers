@@ -1,12 +1,10 @@
 # Universe Css Helpers Class
+A shortcuts for adding margins like mls = margin left small
 
+## Installation
 
-```
-@import "{universe:css-helpers}/shortClassesMixin.import.less";
-
-body .ui {
-  .shortClasses();
-}
+```sh
+meteor add universe:css-helpers
 ```
 
 

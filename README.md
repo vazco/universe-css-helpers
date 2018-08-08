@@ -1,4 +1,9 @@
-# Universe Css Helpers Class
+<h1 align="center">
+    <a href="https://github.com/vazco">vazco</a>/Universe CSS Helpers Class
+</h1>
+
+&nbsp;
+
 A shortcuts for adding margins like mls = margin left small
 
 ## Installation
@@ -50,3 +55,9 @@ You can import it as a mixin and defined own spacing for: tiny, small, medium, l
   .shortClasses(0.25rem, 0.5rem, 1rem, 2rem);
 }
 ```
+
+## License
+
+<img src="https://vazco.eu/banner.png" align="right">
+
+**Like every package maintained by [Vazco](https://vazco.eu/), Universe CSS Helpers Class is [MIT licensed](https://github.com/vazco/uniforms/blob/master/LICENSE).**
